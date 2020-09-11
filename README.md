@@ -1,2 +1,2 @@
 # My-first-tic-tac-toe-game
-This is the Tic-tac-toe game that I have created in Python. This game does not provide any instructions to play, but still it is quite cool.
+This is the Tic-tac-toe game that I have created in Python. This game does not provide any instructions to play nor it is the most efficient code for tic tac toe... It is just what came to my mind first when I got it as my practice problem... and as I progress in coding and building good logic, I will make changes in this code to make it more efficient, but still it is quite cool.
